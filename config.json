@@ -1,6 +1,6 @@
 {
-	"ip":"openAccount0000.aternos.me:49086",
-	"port": "25565",
-	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"ip":"openAccount0000.aternos.me",
+	"port": "49086",
+	"name": "afkbot",
+	"auto-night-skip":"false"
 }
